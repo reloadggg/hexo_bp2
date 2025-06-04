@@ -13,8 +13,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://reloadggg.github.io/hexo2
-root: /hexo2/
+url: https://reloadggg.github.io/hexo_bp2
+root: /hexo_bp2/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,5 +103,5 @@ theme: diaspora
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/reloadggg/hexo2.git
+  repo: https://github.com/reloadggg/hexo_bp2.git
   branch: gh-pages
